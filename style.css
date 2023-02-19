@@ -1,0 +1,55 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+section{
+    padding: 60px 0;
+}
+
+ #main{
+    padding: 0 0;
+}
+
+
+.bg-light{
+    background-color: transparent !important;
+}
+.carousel-item{
+    height: 100vh;
+    min-height: 300px;
+    background: linear-gradient(rgba(0, 0, 50, 0.8), rgba(0, 0, 50, 0.8))
+}
+
+.carousel-caption a{
+    background: darkorange;
+}
+
+.carousel-inner {
+background: linear-gradient(to right, #000000, #FFFFFF);
+}
+
+
+/* ABOUT */
+
+#abimg{
+    height: 400px;
+}
+
+
+
+/* PROJECTS */
+
+
+
+/* TEAM */
+#team{
+    background-color: whitesmoke;
+}
+
+
+/* CONTACT */
+#mcontent{
+    background-color:aliceblue;
+}
